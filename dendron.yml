@@ -81,13 +81,13 @@ publishing:
     enableMermaid: true
     enablePrettyRefs: true
     enableKatex: true
-    assetsPrefix: /template.publish.github-action
+    assetsPrefix: /dendron-site
     copyAssets: true
     siteHierarchies:
         - root
     enableSiteLastModified: true
     siteRootDir: docs
-    siteUrl: 'https://picarro-szemengtan.github.io/dendron-site'
+    siteUrl: 'https://picarro-szemengtan.github.io'
     enableFrontmatterTags: true
     enableHashesForFMTags: false
     enableRandomlyColoredTags: true
