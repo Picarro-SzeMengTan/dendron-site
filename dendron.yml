@@ -87,7 +87,7 @@ publishing:
         - root
     enableSiteLastModified: true
     siteRootDir: docs
-    siteUrl: 'https://dendronhq.github.io'
+    siteUrl: 'https://picarro-szemengtan.github.io/dendron-site'
     enableFrontmatterTags: true
     enableHashesForFMTags: false
     enableRandomlyColoredTags: true
