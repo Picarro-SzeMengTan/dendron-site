@@ -2,12 +2,12 @@
 id: ENDcCZFjAW9h66eDoFg7I
 title: Seed
 desc: ''
-updated: 1654013219836
+updated: 1662311010212
 created: 1631921362276
 nav_exclude_children: true
 ---
 
 
-This is a page. Plant it and watch it grow.
+Making a change to the seed page.
 
 [[seed.child]]
